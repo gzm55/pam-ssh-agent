@@ -1,5 +1,8 @@
-/target
+/target/
 /.idea/
+/vendor/
+/debian/cargo_home/
+
 # pixi environments
 .pixi/*
 !.pixi/config.toml
